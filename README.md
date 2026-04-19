@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
