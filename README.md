@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 | [0739-daily-temperatures](https://github.com/siddmoparti/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
