@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/siddmoparti/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
