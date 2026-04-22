@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -79,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
