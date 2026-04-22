@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
