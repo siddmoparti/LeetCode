@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/siddmoparti/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/siddmoparti/LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
