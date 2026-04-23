@@ -14,8 +14,6 @@ class Solution:
             else:
                 break
 
-        if not (top <= bottom):
-            return False
         
         left = 0
         right = cols - 1
