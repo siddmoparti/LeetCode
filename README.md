@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddmoparti/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siddmoparti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/siddmoparti/LeetCode/tree/master/0036-valid-sudoku) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddmoparti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/siddmoparti/LeetCode/tree/master/0018-4sum) |
 ## Backtracking
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddmoparti/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
