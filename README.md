@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/siddmoparti/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
