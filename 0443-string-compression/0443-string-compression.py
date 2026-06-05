@@ -1,6 +1,6 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        s = ""
+        write = 0
         l = 0
         r = 0
 
@@ -8,18 +8,20 @@ class Solution:
             cur_char = chars[r]
             while r < len(chars) and chars[l] == chars[r]: 
                 r += 1
-            if r - l == 1:
-                s += cur_char
-            else:
-                s += cur_char
-                s += str(r - l)
-            l = r
-        
-        
-        for i in range(len(s)):
-            chars[i] = s[i]
             
-        return len(s)
+            chars[write] = cur_char
+            write += 1
+
+            count = r - l
+            if count > 1:
+                for digit in str(count):
+                    chars[write] = digit
+                    write += 1
+                
+            l = r
+    
+            
+        return write
             
 
 
