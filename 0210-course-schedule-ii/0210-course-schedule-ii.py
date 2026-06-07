@@ -1,36 +1,35 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        res = []
-        adj = [[] for i in range(numCourses)]
-        for crs,pre in prerequisites:
+        adj = [[] for _ in range(numCourses)]
+
+        for crs, pre in prerequisites:
             adj[crs].append(pre)
-        visited = set()
+
+        res = []
+        visiting = set()
+        completed = set()
 
         def dfs(crs):
-            if crs in visited:
-                return []
-            if crs in res:
-                return
-            if not adj[crs]:
-                res.append(crs)
-                return
+            if crs in visiting:
+                return False
 
-            visited.add(crs)
+            if crs in completed:
+                return True
+
+            visiting.add(crs)
 
             for pre in adj[crs]:
-                if dfs(pre) == []:
-                    return []
-            
-            visited.remove(crs)
-            adj[crs] = []
+                if not dfs(pre):
+                    return False
+
+            visiting.remove(crs)
+            completed.add(crs)
             res.append(crs)
-            return
-        
 
-        for i in range(numCourses):
-            if dfs(i) == []:
+            return True
+
+        for crs in range(numCourses):
+            if not dfs(crs):
                 return []
-        
-        return res
 
-        
+        return res
