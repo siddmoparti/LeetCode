@@ -3,22 +3,34 @@ class Solution:
         ROWS = len(board)
         COLS = len(board[0])
 
-        visit = set()
-        def dfs(i, r, c):
-            if i == len(word):
+        def dfs(r, c, res_index):
+            if res_index == len(word):
                 return True
-            if r not in range(ROWS) or c not in range(COLS) or board[r][c] != word[i] or (r,c) in visit:
+            if r not in range(ROWS) or c not in range(COLS):
+                return False
+
+            if board[r][c] == word[res_index]:
+                res_index += 1
+            else:
                 return False
             
-            visit.add((r,c))
-            res = dfs(i + 1, r + 1, c) or dfs(i + 1, r - 1, c) or dfs(i + 1, r, c + 1) or dfs(i + 1, r, c - 1)
-            visit.remove((r,c))
+            temp = board[r][c]
+            board[r][c] = "#"
+            
+            found = dfs(r + 1, c, res_index) or dfs(r - 1, c, res_index) or dfs(r, c + 1, res_index) or dfs(r, c - 1, res_index)
 
-            return res
+            board[r][c] = temp
+            return found
+
         for r in range(ROWS):
             for c in range(COLS):
-                if dfs(0, r, c):
+                if dfs(r,c, 0):
                     return True
-
-            
+        
         return False
+    
+            
+
+    
+
+        
