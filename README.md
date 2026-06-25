@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/siddmoparti/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/siddmoparti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/siddmoparti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddmoparti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddmoparti/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
 ## Backtracking
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddmoparti/LeetCode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
