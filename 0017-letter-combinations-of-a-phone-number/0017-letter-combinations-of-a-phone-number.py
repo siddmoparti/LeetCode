@@ -1,19 +1,25 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        phoneNumbers = { "2": "abc", "3": "def", "4": "ghi", "5": "jkl", "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz" }
+        letters = {"2": "abc", "3": "def", "4": "ghi", "5":"jkl", "6":"mno", "7":"pqrs",
+        "8":"tuv", "9":"wxyz"}
 
-        
         res = []
 
-        def dfs(i, curStr):
-            if len(curStr) == len(digits):
-                res.append(curStr)
+        def dfs(i, cur):
+            if len(cur) == len(digits):
+                res.append(cur)
                 return
-            for c in phoneNumbers[digits[i]]:
-                dfs(i + 1, curStr + c)
+            
+            for c in letters[digits[i]]:
+               
+                dfs(i + 1, cur + c)
+                
+            
+            return
         
-        if digits:
-            dfs(0, "")
-
+        dfs(0, "")
         return res
+            
+            
+            
 
