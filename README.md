@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/siddmoparti/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/siddmoparti/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/siddmoparti/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
