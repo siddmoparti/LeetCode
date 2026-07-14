@@ -1,34 +1,36 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        ROWS = len(grid)
-        COLS = len(grid[0])
-
-        numMinutes = 0
+        rows = len(grid)
+        cols = len(grid[0])
+        minutes = 0
         fresh = 0
         q = collections.deque()
-
-        for r in range(ROWS):
-            for c in range(COLS):
-                if grid[r][c] == 2:
-                    q.append((r,c))
-                elif grid[r][c] == 1:
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == 1:
                     fresh += 1
-
-        directions = [[1,0], [-1,0], [0,1], [0,-1]]
+                elif grid[i][j] == 2:
+                    q.appendleft((i,j))
 
         while q and fresh > 0:
-            for i in range(len(q)):
-                r,c = q.popleft()
-                for dr,dc in directions:
-                    nr = r + dr
-                    nc = c + dc
-                    if nr in range(ROWS) and nc in range(COLS) and grid[nr][nc] == 1:
-                        grid[nr][nc] = 2
-                        fresh -= 1
-                        q.append((nr, nc))
-            numMinutes += 1
+            q_length = len(q)
 
+            for i in range(q_length):
+                r,c = q.pop()
+                dir = [[1,0],[0,1],[0,-1], [-1,0]]
+                for dr,dc in dir:
+                    nr = dr + r
+                    nc = dc + c
+                    if nr in range(rows) and nc in range(cols) and grid[nr][nc] == 1:
+                        grid[nr][nc] = 2
+                        q.appendleft((nr,nc))
+                        fresh -= 1
+            
+            minutes += 1
+                
+        
         if fresh == 0:
-            return numMinutes
-        else:
+            return minutes
+        elif fresh != 0:
             return -1
+        
