@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/siddmoparti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/siddmoparti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddmoparti/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/siddmoparti/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddmoparti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## Stack
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddmoparti/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/siddmoparti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddmoparti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddmoparti/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
 ## Backtracking
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddmoparti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddmoparti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/siddmoparti/LeetCode/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddmoparti/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddmoparti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
