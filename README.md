@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/siddmoparti/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddmoparti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddmoparti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/siddmoparti/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -297,5 +298,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/siddmoparti/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/siddmoparti/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
