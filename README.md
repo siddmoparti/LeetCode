@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/siddmoparti/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/siddmoparti/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddmoparti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
