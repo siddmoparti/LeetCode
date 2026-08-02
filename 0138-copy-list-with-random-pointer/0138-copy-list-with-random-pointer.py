@@ -13,8 +13,8 @@ class Solution:
         cur = head
 
         while cur:
-            if cur not in old_to_new:
-                old_to_new[cur] = Node(cur.val, None, None)
+            
+            old_to_new[cur] = Node(cur.val, None, None)
             cur = cur.next
         
         cur = head
