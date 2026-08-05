@@ -1,37 +1,35 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if not lists or len(lists) == 0:
-            return None
+        dummy = ListNode()
+        cur = None
 
-        while len(lists) > 1:
-            mergedLists = [] # Fixed naming consistency
+        def mergeList(List1, List2):
+            dummy = ListNode()
+            tail = dummy
 
-            for i in range(0, len(lists), 2):
-                l1 = lists[i]
-                l2 = lists[i + 1] if (i + 1) < len(lists) else None
-                mergedLists.append(self.mergeList(l1, l2))
-            
-            lists = mergedLists
+            while List1 and List2:
+                if List1.val <= List2.val:
+                    tail.next = List1
+                    List1 = List1.next
+                else:
+                    tail.next = List2
+                    List2 = List2.next
+                
+                tail = tail.next
+               
+            if List1:
+                tail.next = List1
+            elif List2:
+                tail.next = List2
+
+            return dummy.next
+         
+        for l in lists:
+            cur = mergeList(l, cur)
         
-        return lists[0]
-
-    # Moved outside mergeKLists and fixed ListNode capitalization
-    def mergeList(self, l1, l2):
-        dummy = ListNode() 
-        tail = dummy
-
-        while l1 and l2:
-            if l1.val < l2.val:
-                tail.next = l1
-                l1 = l1.next
-            else:
-                tail.next = l2
-                l2 = l2.next
-            tail = tail.next
-        
-        if l1:
-            tail.next = l1
-        elif l2:
-            tail.next = l2
-        
-        return dummy.next
+        return cur
