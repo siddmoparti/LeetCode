@@ -1,33 +1,18 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        unique = dict()
+        dic = {}
+        
 
         for word in strs:
             key = "".join(sorted(word))
+            if key not in dic:
+                dic[key] = []
+            dic[key].append(word)
+        res = []
+        for lst in dic.values():
+            res.append(lst)
         
-            if key not in unique:
-                unique[key] = []
-
-            unique[key].append(word)
-        
-        return list(unique.values())
+        return res
 
 
 
-        # sortedWords = sorted(strs)
-
-        # unique = dict()
-        # for word in sortedWords:
-        #     unique[word] = []
-        
-        # for word in strs:
-        #     key = word.sort()
-        #     if key in unique.keys():
-        #         unique[key].append(word)
-        
-        # return unique
-            
-        
-
-
-       
