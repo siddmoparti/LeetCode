@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/siddmoparti/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddmoparti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0261-graph-valid-tree](https://github.com/siddmoparti/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0872-leaf-similar-trees](https://github.com/siddmoparti/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/siddmoparti/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/siddmoparti/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/siddmoparti/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/siddmoparti/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/siddmoparti/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/siddmoparti/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/siddmoparti/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 ## Greedy
 |  |
