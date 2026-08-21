@@ -1,36 +1,33 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        ROWS = len(board)
-        COLS = len(board[0])
+        rows = len(board)
+        cols = len(board[0])
 
-        def dfs(r, c, res_index):
-            if res_index == len(word):
+        visited = set()
+        def dfs(r,c, i):
+            if i == len(word):
                 return True
-            if r not in range(ROWS) or c not in range(COLS):
+            if r not in range(rows) or c not in range(cols) or (r,c) in visited:
                 return False
-
-            if board[r][c] == word[res_index]:
-                res_index += 1
-            else:
-                return False
+            if board[r][c] == word[i]:
+                visited.add((r,c))
+                res = (dfs(r, c + 1, i + 1)
+                or dfs(r + 1, c, i + 1)
+                or dfs(r - 1, c, i + 1)
+                or dfs(r, c - 1, i + 1))
+                
+                visited.remove((r,c))
+                return res
             
-            temp = board[r][c]
-            board[r][c] = "#"
-            
-            found = dfs(r + 1, c, res_index) or dfs(r - 1, c, res_index) or dfs(r, c + 1, res_index) or dfs(r, c - 1, res_index)
-
-            board[r][c] = temp
-            return found
-
-        for r in range(ROWS):
-            for c in range(COLS):
-                if dfs(r,c, 0):
-                    return True
+            return False
         
-        return False
-    
-            
+        for i in range(rows):
+            for j in range(cols):
+                if dfs(i,j, 0):
+                    return True
+                
 
-    
+        return False
+
 
         
