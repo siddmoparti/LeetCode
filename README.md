@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0872-leaf-similar-trees](https://github.com/siddmoparti/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddmoparti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/siddmoparti/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/siddmoparti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/siddmoparti/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddmoparti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/siddmoparti/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/siddmoparti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/siddmoparti/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Simulation
 |  |
 | ------- |
