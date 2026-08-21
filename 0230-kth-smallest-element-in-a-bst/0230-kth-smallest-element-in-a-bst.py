@@ -10,8 +10,8 @@ class Solution:
         def dfs(node, vals):
             if not node:
                 return
-            if len(vals) == k:
-                return 
+            # if len(vals) == k:
+            #     return 
             dfs(node.left, vals)
             vals.append(node.val)
             dfs(node.right, vals)
