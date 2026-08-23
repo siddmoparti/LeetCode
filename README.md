@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/siddmoparti/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siddmoparti/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/siddmoparti/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/siddmoparti/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddmoparti/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddmoparti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siddmoparti/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/siddmoparti/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/siddmoparti/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/siddmoparti/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 ## Union-Find
 |  |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/siddmoparti/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
