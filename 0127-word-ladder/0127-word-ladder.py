@@ -1,29 +1,36 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        # 1. Convert list to a set for O(1) lookups and tracking visits
-        word_set = set(wordList)
-        if endWord not in word_set:
+        if endWord not in wordList:
             return 0
-        
-        q = collections.deque([beginWord])
+        visited = set()
+        visited.add(beginWord)
+        q = collections.deque()
+        q.append(beginWord)
+        n = len(endWord)
+
         res = 1
-        
         while q:
             for _ in range(len(q)):
-                word = q.popleft()
-                
-                if word == endWord:
+
+                cur = q.popleft()
+                if cur == endWord:
                     return res
+                found_next = False
+                visited.add(cur)
+                for word in wordList:
+                    if word in visited:
+                        continue
                 
-                # 2. Generate neighbors by mutating the word, instead of looping wordList
-                for i in range(len(word)):
-                    for c in 'abcdefghijklmnopqrstuvwxyz':
-                        next_word = word[:i] + c + word[i+1:]
-                        
-                        # If it's a valid unvisited word, queue it
-                        if next_word in word_set:
-                            q.append(next_word)
-                            word_set.remove(next_word) # Removing replaces the "visit" set
+                    diff = 0
+                    for i in range(n):
+                        if word[i] != cur[i]:
+                            diff += 1
+                        if diff > 1:
+                            break
+                    if diff == 1:
+                        visited.add(word)
+                        q.append(word)
             res += 1
+                        
 
         return 0
