@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/siddmoparti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0286-walls-and-gates](https://github.com/siddmoparti/LeetCode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/siddmoparti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/siddmoparti/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siddmoparti/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/siddmoparti/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/siddmoparti/LeetCode/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/siddmoparti/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/siddmoparti/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/siddmoparti/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siddmoparti/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddmoparti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/siddmoparti/LeetCode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/siddmoparti/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
