@@ -1,31 +1,46 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        adj = defaultdict(list)
-        for i,eq in enumerate(equations):
-            a,b = eq
-            adj[a].append([b, values[i]])
-            adj[b].append([a, 1 / values[i]])
-        
-        def bfs(src, target):
-            if src not in adj or target not in adj:
-                return -1
-            q, visit = deque(), set()
-            q.append([src,1])
-            visit.add(src)
-            while q:
-                node, weight = q.popleft()
-                if node == target:
-                    return weight
-                for nei, new_weight in adj[node]:
-                    if nei not in visit:
-                        q.append([nei, new_weight * weight])
-                        visit.add(nei)
-            return -1
-        
+        conversions = defaultdict(list)
         res = []
-        for q in queries:
-            res.append(bfs(q[0], q[1]))
+        for i in range(len(values)):
+            a_to_b = values[i] 
+            b_to_a = 1 / a_to_b 
+            a = equations[i][0]
+            b = equations[i][1]
+            conversions[a].append((b, a_to_b))
+            conversions[b].append((a, b_to_a))
+        
+        for i in range(len(queries)):
+
+            a = queries[i][0]
+            b = queries[i][1]
+            if a not in conversions or b not in conversions:
+                res.append(-1.0)
+                continue
+            q = collections.deque()
+            q.append((a, 1.0))
+            visited = set()
+            visited.add(a)
+            found = False
+            while q:
+                src,cost = q.popleft()
+                if src == b:
+                    res.append(cost)
+                    found = True
+                    break
+              
+                for dest, c in conversions[src]:
+                    if dest not in visited:
+                        visited.add(dest)
+                        q.append((dest, cost * c))
+            if not found:
+                res.append(-1.0)
         
         return res
+                
 
-        # return [bfs(q[0], q[1]) for q in queries]
+
+                
+
+                
+            
