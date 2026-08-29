@@ -475,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/siddmoparti/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
