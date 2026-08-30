@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/siddmoparti/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
+| [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
+| [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddmoparti/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddmoparti/LeetCode/tree/master/0054-spiral-matrix) |
+| [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Math
 |  |
 | ------- |
