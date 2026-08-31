@@ -1,36 +1,31 @@
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        # 0:1
-        # 1:0,2,3,4
-        # 2:1,3
-        # 3:1,2
-        # 4:1
-
-        visited = set()
-        adj = { i:[] for i in range(n)}
-        for parent,child in edges:
-            adj[parent].append(child)
-            adj[child].append(parent)
         
-        def dfs(parent,child):
+        par = [i for i in range(n)]
+        rank = [1] * n
+
+        def find(n):
+            if n == par[n]:
+                return par[n]
+            par[n] = find(par[n])
+            return par[n]
             
-            visited.add(child)
-            for new_child in adj[child]:
-                if new_child == parent:
-                    continue
-                if new_child in visited:
-                    return False
-                if not dfs(child, new_child):
-                    return False
-            
+        def union(n1,n2):
+            p1, p2 = find(n1), find(n2)
+            if p1 == p2:
+                return False
+
+            if rank[p1] > rank[p2]:
+                par[p2] = p1
+                rank[p1] += p2
+            else:
+                par[p1] = p2
+                rank[p2] += p1
             return True
         
-        if not dfs(-1, 0):
-            return False
+        for n1,n2 in edges:
+            if not union(n1,n2):
+                return False
+        return len(edges) == n - 1
         
-        return len(visited) == n
-
-
-
-
         
