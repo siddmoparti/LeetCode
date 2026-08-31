@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddmoparti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/siddmoparti/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/siddmoparti/LeetCode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/siddmoparti/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddmoparti/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/siddmoparti/LeetCode/tree/master/0198-house-robber) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/siddmoparti/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/siddmoparti/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/siddmoparti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/siddmoparti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/siddmoparti/LeetCode/tree/master/0202-happy-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/siddmoparti/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/siddmoparti/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/siddmoparti/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddmoparti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddmoparti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddmoparti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/siddmoparti/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/siddmoparti/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/siddmoparti/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddmoparti/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 | [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Heap (Priority Queue)
 |  |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddmoparti/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -494,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/siddmoparti/LeetCode/tree/master/0399-evaluate-division) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
