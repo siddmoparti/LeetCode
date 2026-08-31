@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/siddmoparti/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/siddmoparti/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/siddmoparti/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/siddmoparti/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
 ## Stack
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/siddmoparti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/siddmoparti/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddmoparti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
 ## Linked List
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/siddmoparti/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddmoparti/LeetCode/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
 | [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Math
 |  |
