@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/siddmoparti/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/siddmoparti/LeetCode/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
+| [2043-simple-bank-system](https://github.com/siddmoparti/LeetCode/tree/master/2043-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/siddmoparti/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
+| [2043-simple-bank-system](https://github.com/siddmoparti/LeetCode/tree/master/2043-simple-bank-system) |
 | [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## String
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/siddmoparti/LeetCode/tree/master/0146-lru-cache) |
 | [0359-logger-rate-limiter](https://github.com/siddmoparti/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [2043-simple-bank-system](https://github.com/siddmoparti/LeetCode/tree/master/2043-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddmoparti/LeetCode/tree/master/0054-spiral-matrix) |
 | [1094-car-pooling](https://github.com/siddmoparti/LeetCode/tree/master/1094-car-pooling) |
+| [2043-simple-bank-system](https://github.com/siddmoparti/LeetCode/tree/master/2043-simple-bank-system) |
 | [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Math
 |  |
