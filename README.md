@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/siddmoparti/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/siddmoparti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/siddmoparti/LeetCode/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3597-partition-string](https://github.com/siddmoparti/LeetCode/tree/master/3597-partition-string) |
 ## Sorting
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/siddmoparti/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/siddmoparti/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddmoparti/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -513,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/siddmoparti/LeetCode/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/siddmoparti/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
